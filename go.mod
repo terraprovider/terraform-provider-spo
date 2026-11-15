@@ -8,13 +8,13 @@ require (
 	github.com/hashicorp/terraform-plugin-framework v1.19.0
 	github.com/hashicorp/terraform-plugin-go v0.31.0
 	github.com/hashicorp/terraform-plugin-testing v1.16.0
-	github.com/terraprovider/go-msadmin v0.2.0
+	github.com/terraprovider/go-msadmin v0.3.2
 	github.com/terraprovider/go-spo v0.2.0
 	github.com/terraprovider/tf-msadmin v0.7.0
 )
 
 require (
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.7.2 // indirect
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.9.0 // indirect
 	github.com/ProtonMail/go-crypto v1.4.1 // indirect
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/andybalholm/brotli v1.2.8 // indirect
